@@ -41,5 +41,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Description",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silviucoler/Hangman-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silviucoler/Hangman-Game/issues"
+  },
+  "homepage": "https://github.com/silviucoler/Hangman-Game#readme"
 }

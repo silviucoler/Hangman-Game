@@ -6,10 +6,10 @@ This is a Hangman game made with React. The game randomly selects a word from a 
 
 ## Table of Contents
 
-1. How to Play
-2. Screenshots
-3. Getting Started
-4. Credits
+1. [How to Play](#how-to-play)
+2. [Screenshots](#screenshots)
+3. [Getting Started](#getting-started)
+4. [Credits](#credits)
 
 ## How to Play
 
